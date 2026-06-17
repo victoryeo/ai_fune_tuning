@@ -1,4 +1,4 @@
-## This is folder that contains Supervised fine tuning files.
+## This folder contains Supervised fine tuning files
 
 - sff.py - run supervised fine tuning on existing Qwen model
 - inference.py - run inference using the LORA adaptation output
