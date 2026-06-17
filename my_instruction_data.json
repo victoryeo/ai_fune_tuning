@@ -1,0 +1,14 @@
+[
+  {
+    "instruction": "What is the company policy on annual leave?",
+    "response": "Employees are entitled to 14 days of paid annual leave per calendar year, which must be approved by their direct manager."
+  },
+  {
+    "instruction": "How do I reset my company password?",
+    "response": "To reset your password, visit the IT self-service portal at identity.company.local or contact the helpdesk at extension 4357."
+  },
+  {
+    "instruction": "Explain the protocol for reporting a security incident.",
+    "response": "In the event of a security breach, immediately disconnect the affected machine from the network and email security-incident@company.com."
+  }
+]
