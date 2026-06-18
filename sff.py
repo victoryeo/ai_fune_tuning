@@ -50,10 +50,6 @@ model = get_peft_model(model, lora_config)
 # 3. Load Dataset
 dataset = load_dataset("json", data_files="my_instruction_data.json", split="train")
 
-# Define how to format data rows into the prompt template
-# 3. Load Dataset
-dataset = load_dataset("json", data_files="my_instruction_data.json", split="train")
-
 # Define how to format a SINGLE data row into the prompt template
 def formatting_prompts_func(example):
     # Process a single row directly (no loops needed!)
